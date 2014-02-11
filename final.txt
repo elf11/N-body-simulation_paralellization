@@ -1,0 +1,25 @@
+1000 num bodies simulation
+Serial run tTime for 100 iterations is 4.352067
+Omp run tTime for 100 iterations is 1.766564
+PThread run tTime for 100 iterations is 1.783364
+MPI run tTime for 100 iterations is 0.549846
+1500 num bodies simulation
+Serial run tTime for 100 iterations is 9.812994
+Omp run tTime for 100 iterations is 4.163184
+PThread run tTime for 100 iterations is 4.265518
+MPI run tTime for 100 iterations is 1.601040
+2000 num bodies simulation
+Serial run tTime for 100 iterations is 17.806586
+Omp run tTime for 100 iterations is 7.882327
+PThread run tTime for 100 iterations is 7.505622
+MPI run tTime for 100 iterations is 2.299279
+2500 num bodies simulation
+Serial run tTime for 100 iterations is 28.612765
+Omp run tTime for 100 iterations is 14.888182
+PThread run tTime for 100 iterations is 11.942636
+MPI run tTime for 100 iterations is 4.044054
+3000 num bodies simulation
+Serial run tTime for 100 iterations is 40.956414
+Omp run tTime for 100 iterations is 17.460240
+PThread run tTime for 100 iterations is 17.099453
+MPI run tTime for 100 iterations is 5.743250

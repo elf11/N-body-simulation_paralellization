@@ -1,0 +1,4 @@
+Serial run tTime for 100 iterations is 40.956414
+Omp run tTime for 100 iterations is 17.460240
+PThread run tTime for 100 iterations is 17.099453
+MPI run tTime for 100 iterations is 5.743250
